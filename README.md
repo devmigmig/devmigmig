@@ -2,6 +2,8 @@
 
 I'm an **Oracle Developer on weekdays** and a **Full-Stack Developer on weekends** — blending enterprise-level development with modern full-stack engineering. I'm passionate about exploring emerging technologies and discovering how they can drive positive change.
 
+As of today, my primary focus is on **Oracle development** and **Spring Boot** applications, building robust, scalable backend systems.
+
 ## 🚀 Tech Stack
 
 ### **Languages**
@@ -34,3 +36,5 @@ I'm an **Oracle Developer on weekdays** and a **Full-Stack Developer on weekends
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+
