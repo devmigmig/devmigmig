@@ -1,3 +1,7 @@
+## 👋 Hello, I'm Mig!
+
+I'm an **Oracle Developer on weekdays** and a **Full-Stack Developer on weekends** — blending enterprise-level development with modern full-stack engineering. I'm passionate about exploring emerging technologies and discovering how they can drive positive change.
+
 ## 🚀 Tech Stack
 
 ### **Languages**
@@ -22,10 +26,11 @@
 ![YOLOv5](https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![YOLOv7](https://img.shields.io/badge/YOLOv7-FF00FF?style=for-the-badge&logo=yolo&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
 
 ### **Integrations**
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
