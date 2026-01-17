@@ -1,8 +1,8 @@
 ## 👋 Hello, I'm Mig!
 
-I'm an **Oracle Developer on weekdays** and a **Full-Stack Developer on weekends** — blending enterprise-level development with modern full-stack engineering. I'm passionate about exploring emerging technologies and discovering how they can drive positive change.
+I'm an **Oracle Developer on weekdays** and a **Back-End Developer on weekends** — blending enterprise-level development with modern full-stack engineering. I'm passionate about exploring emerging technologies and discovering how they can drive positive change.
 
-As of today, my primary focus is on **Oracle development** and **Spring Boot** applications, building robust, scalable backend systems.
+As of today, my primary focus is on **Oracle Tech** and **Spring Boot** applications, building robust, scalable backend systems.
 
 ## 🚀 Tech Stack
 
