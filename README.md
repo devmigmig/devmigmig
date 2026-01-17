@@ -26,6 +26,7 @@ As of today, my primary focus is on **Oracle Tech** and **Spring Boot** applicat
 ![YOLOv7](https://img.shields.io/badge/YOLOv7-FF00FF?style=for-the-badge&logo=yolo&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
+### **Oracle Tech**
 
 ### **Integrations**
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
